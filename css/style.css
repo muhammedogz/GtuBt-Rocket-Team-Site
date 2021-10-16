@@ -163,6 +163,7 @@ body {
   background-color: #ff00773d;
   background-image: url("../images/background/bg-1.jpg");
   background-blend-mode: multiply;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -184,6 +185,7 @@ body {
   background-color: #0033ff3d;
   background-image: url("../images/background/bg-2.jpg");
   background-blend-mode: multiply;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -205,6 +207,7 @@ body {
   background-color: #00ff443d;
   background-image: url("../images/background/bg-3.jpg");
   background-blend-mode: multiply;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -226,6 +229,7 @@ body {
   background-color: #ff4e003d;
   background-image: url("../images/background/bg-4.jpg");
   background-blend-mode: multiply;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -247,6 +251,7 @@ body {
   background-color: #8000ff3d;
   background-image: url("../images/background/bg-5.jpg");
   background-blend-mode: multiply;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
